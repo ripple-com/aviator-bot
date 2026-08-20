@@ -2,8 +2,8 @@ import asyncio
 import random
 from telegram import Bot
 
-TOKEN = "ඔබේ_BOT_TOKEN_එක"
-CHAT_ID = "@ඔබේ_CHANNEL_NAME"
+TOKEN = "8842393659:AAEK-X-hY4C_KjEtMfUCjMXWQWq_XcjbwfQ"
+CHAT_ID = "@suwahas_sathsara_servic"
 
 bot = Bot(token=TOKEN)
 
